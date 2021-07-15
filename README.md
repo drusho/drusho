@@ -6,6 +6,10 @@ Currently, I'm based out of Orlando, FL, where I am currently enrolled in an MS 
 
 <br>
 
+<h2>Recent Posts on my Blog</h2>
+* [Florida School's Positive Covid Cases](https://drusho.github.io/pandas/2021/07/14/_07_09_FL_Schools_Covid19_2021.html)
+
+<br>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drusho&theme=default" />
 </a>
