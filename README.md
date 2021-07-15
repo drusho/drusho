@@ -1,15 +1,24 @@
 <h2> About Me</h2>
 
-My name is David Rusho.  I have a passion for using data to tell stories and discover meaningful insights. I started programming almost accidentally while looking for methods to automate repetitive tasks at work.  I am an advanced spreadsheet formulas user and found that transitioning to writing code in python was a natural next step in my data science journey.
-
-Currently, I'm based out of Orlando, FL, where I am currently enrolled in an MS Data Analytics (Big Data) program at the University of Central Florida. When I'm not programming or reading about Data Science, you can usually find me playing with photography, practicing yoga, or learning to cook Korean/Indian food.
+My name is David Rusho.  I have a passion for using data to tell stories and discover meaningful insights. Currently, I'm based out of Orlando, FL, where I am enrolled in an MS Data Analytics (Big Data) program at the University of Central Florida.
 
 <br>
 
-<h2>Recent Posts on my Blog</h2>
+<h2>Recent Blog Posts</h2>
+
 * [Florida School's Positive Covid Cases](https://drusho.github.io/pandas/2021/07/14/_07_09_FL_Schools_Covid19_2021.html)
 
+* [Data Analysis of Reddit's /r/Politics](https://drusho.github.io/nlp/pandas/plotly/texthero/prawn/reddit/api/2021/07/14/_07_05_reddit_politics_eda.html)
+
+
+
+* [US Firework Sales and Injuries (Part 2) - Data Analysis](https://drusho.github.io/pandas/plotly/seaborn/2021/07/14/_07_03_firework_part_2_eda.html)
+
+* [US Firework Sales and Injuries (Part 1) - Cleaning](https://drusho.github.io/pandas/data%20cleaning/2021/07/14/_06_25_firework_part_1_cleaning.html)
+
 <br>
+<br>
+
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drusho&theme=default" />
 </a>
@@ -17,8 +26,8 @@ Currently, I'm based out of Orlando, FL, where I am currently enrolled in an MS 
 <br>
 <br>
 
-<h2> Connect with me  </h2><a href = 'https://www.linkedin.com/in/davidruho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://www.twitter.com/drusho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> <a href = 'https://www.github.com/drusho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<!-- <h2> Connect with me  </h2><a href = 'https://www.linkedin.com/in/davidruho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://www.twitter.com/drusho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> <a href = 'https://www.github.com/drusho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> -->
 
 
 
