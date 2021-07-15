@@ -5,18 +5,6 @@ My name is David Rusho.  I have a passion for using data to tell stories and dis
 Currently, I'm based out of Orlando, FL, where I am currently enrolled in an MS Data Analytics (Big Data) program at the University of Central Florida. When I'm not programming or reading about Data Science, you can usually find me playing with photography, practicing yoga, or learning to cook Korean/Indian food.
 
 <br>
-<br>
-
-<h2> My Blog Posts </h2>
-
-<!-- BLOG-POST-LIST:START -->
-
-
-<!-- BLOG-POST-LIST:END -->
-
-
-<br>
-<br>
 
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drusho&theme=default" />
