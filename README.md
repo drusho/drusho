@@ -10,6 +10,8 @@ Currently, I'm based out of Orlando, FL, where I am currently enrolled in an MS 
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+
+
 <!-- BLOG-POST-LIST:END -->
 
 
