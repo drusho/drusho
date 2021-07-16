@@ -40,8 +40,8 @@ Work in Progress
 Complete
 
 * [Using Praw to Analysis API Data from /r/politics on Reddit](https://github.com/drusho/eda_reddit_politics)
-* [Exploratory Data Analysis of US Firework Injury and Sales Reports (2015-2021)](https://github.com/drusho/EDA_US_Firework_Sales_and_Injuries)
-* [Analysis of Florida Schools' COVID-19 cases for 2021](https://github.com/drusho/fl_schools_covid19_2021)
-* [Collection of Data Dnalysis Notebook Projects](https://github.com/drusho/data_analysis)
+* [Data Exploration of US Firework Injury and Sales Reports (2015-2021)](https://github.com/drusho/EDA_US_Firework_Sales_and_Injuries)
+* [Data Analysis of Florida Schools' COVID-19 cases for 2021](https://github.com/drusho/fl_schools_covid19_2021)
+* [Collection of Data Analysis Notebook Projects](https://github.com/drusho/data_analysis)
 
 
