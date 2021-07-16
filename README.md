@@ -10,11 +10,9 @@ My name is David Rusho.  I have a passion for using data to tell stories and dis
 
 * [Data Analysis of Reddit's /r/Politics](https://drusho.github.io/nlp/pandas/plotly/texthero/prawn/reddit/api/2021/07/14/_07_05_reddit_politics_eda.html)
 
-
+* [US Firework Sales and Injuries (Part 1) - Cleaning](https://drusho.github.io/pandas/data%20cleaning/2021/07/14/_06_25_firework_part_1_cleaning.html)
 
 * [US Firework Sales and Injuries (Part 2) - Data Analysis](https://drusho.github.io/pandas/plotly/seaborn/2021/07/14/_07_03_firework_part_2_eda.html)
-
-* [US Firework Sales and Injuries (Part 1) - Cleaning](https://drusho.github.io/pandas/data%20cleaning/2021/07/14/_06_25_firework_part_1_cleaning.html)
 
 <br>
 <br>
