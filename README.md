@@ -6,13 +6,13 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 <h2>Recent Blog Posts</h2>
 
-* [Florida School's Positive Covid Cases (Data Cleaning)](https://drusho.github.io/pandas/2021/07/15/_07_09_FL_Schools_Covid19_2021.html)
+* [Florida School's Positive Covid Cases (Data Cleaning)](https://drusho.github.io/pandas/2021/07/09/fl-schools-covid19-2021.html)
 
-* [Data Analysis of Reddit's /r/Politics](https://drusho.github.io/api/nlp/pandas/plotly/texthero/praw/reddit/2021/07/15/_07_05_reddit_politics_eda.html)
+* [Data Analysis of Reddit's /r/Politics](https://drusho.github.io/api/nlp/pandas/plotly/texthero/praw/reddit/2021/07/05/reddit-politics-eda.html)
 
-* [US Firework Sales and Injuries - Part 1 (Data Cleaning)](https://drusho.github.io/pandas/data%20cleaning/2021/07/15/_06_25_firework_part_1_cleaning.html)
+* [US Firework Sales and Injuries - Part 1 (Data Cleaning)](https://drusho.github.io/pandas/data%20cleaning/2021/06/25/firework-part-1-cleaning.html)
 
-* [US Firework Sales and Injuries - Part 2 (Data Analysis)](https://drusho.github.io/pandas/plotly/seaborn/2021/07/15/_07_03_firework_part_2_eda.html)
+* [US Firework Sales and Injuries - Part 2 (https://drusho.github.io/pandas/plotly/seaborn/2021/07/03/firework-part-2-eda.html)
 
 <br>
 <br>
