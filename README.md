@@ -6,7 +6,8 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 <h2>Recent Blog Posts</h2>
 
-* [Florida School's Positive Covid Cases - Data Cleaning/Merging](https://drusho.github.io/pandas/2021/07/14/_07_09_FL_Schools_Covid19_2021.html)
+* [Florida School's Positive Covid Cases](https://drusho.github.io/pandas/2021/07/14/_07_09_FL_Schools_Covid19_2021.html)
+> Data Cleaning/Merging
 
 * [Data Analysis of Reddit's /r/Politics](https://drusho.github.io/nlp/pandas/plotly/texthero/prawn/reddit/api/2021/07/14/_07_05_reddit_politics_eda.html)
 
