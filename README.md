@@ -1,6 +1,6 @@
 <h2> About Me</h2>
 
-My name is David Rusho.  I have a passion for using data to tell stories and discover meaningful insights. Currently, I'm based out of Orlando, FL, where I am enrolled in an MS Data Analytics (Big Data) program at the University of Central Florida.
+MS Data Analytics (Big Data) student with a passion for using data to tell stories and discover meaningful insights. 
 
 <br>
 
