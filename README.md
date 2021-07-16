@@ -12,7 +12,7 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 * [US Firework Sales and Injuries - Part 1 (Data Cleaning)](https://drusho.github.io/pandas/data%20cleaning/2021/06/25/firework-part-1-cleaning.html)
 
-* [US Firework Sales and Injuries - Part 2 (https://drusho.github.io/pandas/plotly/seaborn/2021/07/03/firework-part-2-eda.html)
+* [US Firework Sales and Injuries - Part 2 (Data Analysis)](https://drusho.github.io/pandas/plotly/seaborn/2021/07/03/firework-part-2-eda.html)
 
 <br>
 <br>
