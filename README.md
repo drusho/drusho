@@ -23,6 +23,8 @@ My name is David Rusho.  I have a passion for using data to tell stories and dis
 
  [<img src="https://raw.githubusercontent.com/drusho/EDA_US_Firework_Sales_and_Injuries/main/assets/tableau_dashboard_preview.png" height="200"/>](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
 
+<br>
+
 [Florida Schools Covid-19 Cases](https://public.tableau.com/app/profile/drusho/viz/FloridaSchools2020-2021Covid-19/Dashboard1)
 
   [<img src="https://raw.githubusercontent.com/drusho/fl_schools_covid19_2021/main/assets/tableau_dashboard_preview.png" height="200"/>](https://public.tableau.com/app/profile/drusho/viz/FloridaSchools2020-2021Covid-19/Dashboard1)
