@@ -29,5 +29,19 @@ My name is David Rusho.  I have a passion for using data to tell stories and dis
 <!-- <h2> Connect with me  </h2><a href = 'https://www.linkedin.com/in/davidruho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://www.twitter.com/drusho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> <a href = 'https://www.github.com/drusho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> -->
 
+<br>
+<br>
+<h2>Repositories</h2>
+
+Work in Progress
+
+* [Using Selenium to Web Scrape Jobs Posts on Indeed.com](https://github.com/drusho/webscrapping)
+
+Complete
+
+* [Using Praw to Analysis API Data from /r/politics on Reddit](https://github.com/drusho/eda_reddit_politics)
+* [Exploratory Data Analysis of US Firework Injury and Sales Reports (2015-2021)](https://github.com/drusho/EDA_US_Firework_Sales_and_Injuries)
+* [Analysis of Florida Schools' COVID-19 cases for 2021](https://github.com/drusho/fl_schools_covid19_2021)
+* [Collection of Data Dnalysis Notebook Projects](https://github.com/drusho/data_analysis)
 
 
