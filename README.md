@@ -17,6 +17,22 @@ My name is David Rusho.  I have a passion for using data to tell stories and dis
 <br>
 <br>
 
+<h2>Repositories</h2>
+
+Work in Progress
+
+* [Using Selenium to Web Scrape Jobs Posts on Indeed.com](https://github.com/drusho/webscrapping)
+
+Complete
+
+* [Using Praw to Analyze API Data from /r/politics on Reddit](https://github.com/drusho/eda_reddit_politics)
+* [Data Exploration of US Firework Injury and Sales Reports (2015-2021)](https://github.com/drusho/EDA_US_Firework_Sales_and_Injuries)
+* [Data Analysis of Florida Schools' COVID-19 cases for 2021](https://github.com/drusho/fl_schools_covid19_2021)
+* [Collection of Data Analysis Notebook Projects](https://github.com/drusho/data_analysis)
+
+<br>
+<br>
+
 <h2>Tableau Dashboards</h2>
 
 [Fireworks Inuries (2016-2021)](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
@@ -44,17 +60,4 @@ My name is David Rusho.  I have a passion for using data to tell stories and dis
 
 <br>
 <br>
-<h2>Repositories</h2>
-
-Work in Progress
-
-* [Using Selenium to Web Scrape Jobs Posts on Indeed.com](https://github.com/drusho/webscrapping)
-
-Complete
-
-* [Using Praw to Analyze API Data from /r/politics on Reddit](https://github.com/drusho/eda_reddit_politics)
-* [Data Exploration of US Firework Injury and Sales Reports (2015-2021)](https://github.com/drusho/EDA_US_Firework_Sales_and_Injuries)
-* [Data Analysis of Florida Schools' COVID-19 cases for 2021](https://github.com/drusho/fl_schools_covid19_2021)
-* [Collection of Data Analysis Notebook Projects](https://github.com/drusho/data_analysis)
-
 
