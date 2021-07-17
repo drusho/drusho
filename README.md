@@ -21,7 +21,7 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 Work in Progress
 
-* [Using Selenium to Webscrape Data of Top Tech Youtubers](https://github.com/drusho/webscrape_youtube)
+* [Using Selenium to Webscrape Youtube Tech Channels](https://github.com/drusho/webscrape_youtube)
 
 Complete
 
