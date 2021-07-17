@@ -1,7 +1,9 @@
+
 <h2> About Me</h2>
 
 MS Data Analytics (Big Data) student with a passion for using data to tell stories and discover meaningful insights. 
 
+<br>
 <br>
 
 <h2>Recent Blog Posts</h2>
@@ -16,6 +18,7 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 <br>
 <br>
+
 
 <h2>Repositories</h2>
 
@@ -55,9 +58,8 @@ Complete
 <br>
 <br>
 
-<!-- <h2> Connect with me  </h2><a href = 'https://www.linkedin.com/in/davidruho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://www.twitter.com/drusho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> <a href = 'https://www.github.com/drusho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> -->
+<h2> Links </h2>
 
-<br>
-<br>
+[<img src="https://img.shields.io/badge/Github_Blog-%23ffa64d.svg?&style=for-the-badge&logo=&logoColor=" />](https://drusho.github.io) [<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/drusho)  [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/drusho)  [<img src="https://img.shields.io/badge/tableau-%23ff4d4d.svg?&style=for-the-badge&logo=tableau&logoColor=white">](https://public.tableau.com/app/profile/drusho) [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/davidrusho)
+
 
