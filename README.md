@@ -10,13 +10,15 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 <h2>Recent Blog Posts</h2>
 
-* [Florida School's Positive Covid Cases (Data Cleaning)](https://drusho.github.io/pandas/2021/07/09/fl-schools-covid19-2021.html)
+* 🚧 (work in progress) [Analyzing Youtube Tech Channels](https://drusho.github.io/blog/selenium/web%20scrapping/pandas/2021/07/20/webscrapping-youtube-blog.html)
 
-* [Data Analysis of Reddit's /r/Politics](https://drusho.github.io/api/nlp/pandas/plotly/texthero/praw/reddit/2021/07/05/reddit-politics-eda.html)
+* [Florida School's Positive Covid Cases (Data Cleaning)](https://drusho.github.io/blog/pandas/2021/07/09/fl-schools-covid19-2021.html)
 
-* [US Firework Sales and Injuries - Part 1 (Data Cleaning)](https://drusho.github.io/pandas/data%20cleaning/2021/06/25/firework-part-1-cleaning.html)
+* [Data Analysis of Reddit's /r/Politics](https://drusho.github.io/blog/api/nlp/pandas/plotly/texthero/praw/reddit/2021/07/05/reddit-politics-eda.html)
 
-* [US Firework Sales and Injuries - Part 2 (Data Analysis)](https://drusho.github.io/pandas/plotly/seaborn/2021/07/03/firework-part-2-eda.html)
+* [US Firework Sales and Injuries - Part 1 (Data Cleaning)](https://drusho.github.io/blog/pandas/data%20cleaning/2021/06/25/firework-part-1-cleaning.html)
+
+* [US Firework Sales and Injuries - Part 2 (Data Analysis)](https://drusho.github.io/blog/pandas/plotly/seaborn/2021/07/03/firework-part-2-eda.html)
 
 <br>
 <br>
@@ -24,12 +26,7 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 <h2>Repositories</h2>
 
-Work in Progress
-
-🚧 [Using Selenium to Webscrape Youtube Tech Channels](https://github.com/drusho/webscrape_youtube)
-
-Complete
-
+* 🚧 (work in progress) [Using Selenium to Webscrape Youtube Tech Channels](https://github.com/drusho/webscrape_youtube)
 * [Data Analysis of Reddit's /r/politics](https://github.com/drusho/eda_reddit_politics)
 * [Data Exploration of US Firework Injury and Sales Reports (2015-2021)](https://github.com/drusho/EDA_US_Firework_Sales_and_Injuries)
 * [Data Analysis of Florida Schools' COVID-19 cases for 2021](https://github.com/drusho/fl_schools_covid19_2021)
