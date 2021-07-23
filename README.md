@@ -9,7 +9,7 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 <h2>Recent Blog Posts</h2>
 
-* [Web Scrapping Youtube with Selenium ](https://drusho.github.io/blog/selenium/web%20scrapping/pandas/youtube/python/2021/07/20/webscrapping-youtube-blog.html)
+* [Web Scrapping Popular Youtube Tech Channels with Selenium](https://drusho.github.io/blog/selenium/web%20scrapping/pandas/youtube/python/2021/07/20/webscrapping-youtube-blog.html)
 
 * [Florida School's Positive Covid Cases (Data Cleaning)](https://drusho.github.io/blog/pandas/python/data%20cleaning/tableau/covid19/2021/07/09/fl-schools-covid19-2021.html)
 
@@ -25,7 +25,7 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 <h2>Repositories</h2>
 
-* [Web Scrapping Youtube with Selenium ](https://github.com/drusho/webscrape_youtube)
+* [Web Scrapping Popular Youtube Tech Channels with Selenium](https://github.com/drusho/webscrape_youtube)
 * [Data Analysis of Reddit's /r/politics](https://github.com/drusho/eda_reddit_politics)
 * [Data Exploration of US Firework Injury and Sales Reports (2015-2021)](https://github.com/drusho/EDA_US_Firework_Sales_and_Injuries)
 * [Data Analysis of Florida Schools' COVID-19 cases for 2021](https://github.com/drusho/fl_schools_covid19_2021)
