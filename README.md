@@ -9,6 +9,8 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 <h2>Recent Blog Posts</h2>
 
+* [120 Years of Olympics - An Exploration of a Kaggle Dataset](https://drusho.github.io/blog/pandas/kaggle/plotly/olympics/2021/07/26/eda-olympic-history.html)
+
 * [Web Scrapping Popular Youtube Tech Channels with Selenium](https://drusho.github.io/blog/selenium/web%20scrapping/pandas/youtube/python/2021/07/20/webscrapping-youtube-blog.html)
 
 * [Positive COVID-19 Reports in Florida Schools for 2021](https://drusho.github.io/blog/pandas/python/data%20cleaning/tableau/covid19/2021/07/09/fl-schools-covid19-2021.html)
@@ -35,6 +37,12 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 <br>
 
 <h2>Tableau Dashboards</h2>
+
+[120 Years of Olympics](https://public.tableau.com/views/120YearsofOlympics_16270667103520/Dashboard1)
+
+
+[<img src="https://raw.githubusercontent.com/drusho/drusho.github.io/main/assets/tableau%20dashboard_120_Years_of_olympics.png" alt="screenshot of Tableau Dashboard: 'Olympics 120 History Dashboard'" height="200" width="325"/>](https://public.tableau.com/views/120YearsofOlympics_16270667103520/Dashboard1)
+
 
 [Fireworks Inuries (2016-2021)](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
 
