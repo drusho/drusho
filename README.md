@@ -27,6 +27,7 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 <h2>Repositories</h2>
 
+* [Analyzing Iowa Liquor Sales with SQL (BigQuery)](https://github.com/drusho/bigquery_liquor_sales)
 * [Web Scrapping Popular Youtube Tech Channels with Selenium](https://github.com/drusho/webscrape_youtube)
 * [Data Analysis of Reddit's /r/politics](https://github.com/drusho/eda_reddit_politics)
 * [Data Exploration of US Firework Injury and Sales Reports (2015-2021)](https://github.com/drusho/EDA_US_Firework_Sales_and_Injuries)
