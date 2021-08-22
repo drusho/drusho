@@ -9,6 +9,8 @@ MS Data Analytics (Big Data) student with a passion for using data to tell stori
 
 <h2>Recent Blog Posts</h2>
 
+* [Using SQL (Google BigQuery) to Analyze Iowa Liquor Sales](https://drusho.github.io/blog/bigquery/pandas/plotly/sales/sql/2021/08/01/bigquery-liquore-sales.html#Count-Table-Rows)
+
 * [120 Years of Olympics - An Exploration of a Kaggle Dataset](https://drusho.github.io/blog/pandas/kaggle/plotly/olympics/2021/07/26/eda-olympic-history.html)
 
 * [Web Scrapping Popular Youtube Tech Channels with Selenium](https://drusho.github.io/blog/selenium/web%20scrapping/pandas/youtube/python/2021/07/20/webscrapping-youtube-blog.html)
