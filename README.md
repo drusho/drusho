@@ -2,7 +2,7 @@
 
 <h2> About Me</h2>
 
-MS Data Analytics (Big Data) student with a passion for using data to tell stories and discover meaningful insights. 
+Data Analyst with a passion for using big data to tell stories and discover meaningful insights. 
 
 <br>
 <br>
