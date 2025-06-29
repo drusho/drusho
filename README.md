@@ -23,8 +23,6 @@ I authored a 7-part series on how to create a fully functional, mobile-friendly 
 
 ---
 
-</br>
-
 ### Featured Blog Articles - [(davidrusho.com)](davidrusho.com)
 
 |  Cover      | Article          |
