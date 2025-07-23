@@ -21,6 +21,13 @@ I authored a 7-part series on how to create a fully functional, mobile-friendly 
 - **Repository:** [Apps Script Web App: Workout Logger](https://github.com/drusho/workout-logger-google-apps-script)
 - **Blog Series:** [7-part blog series](https://davidrusho.com/series-automate-your-gains)
 
+#### Airline Customer Satisfaction Analysis
+
+An end-to-end data engineering project that builds a logistic regression model to predict airline customer satisfaction. 
+The project demonstrates a complete data workflow, including data ingestion, cleaning (imputation, outlier treatment), preprocessing, and rigorous feature selection using VIF analysis and backward stepwise elimination.
+
+- **Repository:**  [Airline Customer Satisfaction](https://github.com/drusho/airline-customer-satisfaction)
+
 ---
 
 ### Featured Blog Articles - [(davidrusho.com)](davidrusho.com)
